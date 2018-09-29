@@ -16,4 +16,4 @@
 - In order to combine more advanced variation dictionary, e.g., S3RC-SVDL, S3RC-RADL, or your own variation dictionary learning, just replace the variation dictionary `V` in `S3RC_single_labeled_sample.m` or `S3RC_insufficient_labeled_sample.m`.
 
 ### Contacts
-For questions about the code or the paper, feel free to contact me by Ethan.Y.Gao@gmail.com.
+For questions about the code or the paper, feel free to contact Yuan Gao by Ethan.Y.Gao@gmail.com.
